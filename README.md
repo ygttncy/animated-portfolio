@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# animated-portfolio
-=======
+
 # Animated Portfolio (Vite + React + SCSS)
 
 Modern, animasyonlu ve profesyonel bir portfolyo starter'ı. 
