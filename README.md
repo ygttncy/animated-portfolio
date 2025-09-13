@@ -24,4 +24,4 @@ npm run dev
 npm run build
 ```
 `dist/` klasörünü Netlify'ya deploy edebilirsin.
->>>>>>> 09b2210 (feat: initial commit - animated portfolio with Framer Motion + Lenis)
+
