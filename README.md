@@ -7,6 +7,7 @@ Modern, animasyonlu ve profesyonel bir portfolyo starter'ı.
 - Cam efektli kartlar, gradient blob arkaplanlar
 - Projeler, Sertifikalar, Hakkımda, İletişim bölümleri
 - Hyperplexed havasında minimal estetik
+- Live: https://yigittuncay.netlify.app
 
 ## Başlangıç
 ```bash
